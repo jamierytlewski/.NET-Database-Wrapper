@@ -1,0 +1,5 @@
+C:\Users\rytlewski\Documents\Visual Studio 2010\Projects\Database\bin\Debug\Database.dll
+C:\Users\rytlewski\Documents\Visual Studio 2010\Projects\Database\bin\Debug\Database.pdb
+C:\Users\rytlewski\Documents\Visual Studio 2010\Projects\Database\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rytlewski\Documents\Visual Studio 2010\Projects\Database\obj\Debug\Database.dll
+C:\Users\rytlewski\Documents\Visual Studio 2010\Projects\Database\obj\Debug\Database.pdb

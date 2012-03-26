@@ -1,0 +1,66 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="cmd" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="parameter" priority="0" />
+      <Item value="SqlDbType" priority="2" />
+      <Item value="Int32`0" priority="0" />
+      <Item value="Type`0" priority="0" />
+      <Item value="Direction" priority="0" />
+      <Item value="Output" priority="0" />
+      <Item value="param" priority="0" />
+      <Item value="Int" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="Parameters" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameter">
+      <Item value="Value" priority="0" />
+      <Item value="SqlValue" priority="0" />
+      <Item value="SqlDbType" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="3099" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="2386" fromTop="15" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="1880" fromTop="8" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="1483" fromTop="12" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="1612" fromTop="17" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="1446" fromTop="7" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="1166" fromTop="19" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="3847" fromTop="26" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="3954" fromTop="31" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="374" fromTop="3" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="204" fromTop="7" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="3273" fromTop="24" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="2774" fromTop="12" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="3573" fromTop="36" />
+      <File id="9AD89CBB-CA52-4853-A857-6AB48941FB6C/f:db.cs" caret="3099" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
